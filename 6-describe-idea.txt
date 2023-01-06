@@ -1,0 +1,29 @@
+Language models (like GPT-3) are an interesting component with which to build tools for automating research.
+
+List out ideas for a hackathon about building tools to automate research:
+-Build a tool to automatically create research questionnaires and surveys
+-Develop a tool to predict the outcome of research experiments
+-Create a tool to automatically categorize research literature
+-Build a tool to automatically generate research hypotheses
+-Develop a tool that uses natural language processing to generate summaries of research
+-Develop a tool to automatically generate research summaries from a corpus of documents
+-Create a tool to automatically generate research plans from a set of research questions
+
+Describe how someone could quickly prototype "Build a tool to automatically generate research hypotheses" with GPT-3 in a one-day hackathon.  What would the inputs to the language model be?  What would its outputs be?  What would the interface be?
+
+1. write a description of the proposed research topic or area;
+2. feed the description as input to GPT-3, along with some information such as the area of research and the type of research that needs to be done;
+3. GPT-3's outputs will be hypotheses generated from the given description;
+4. the interface should allow the user to input the description and parameters, display the generated hypotheses, and provide an option for the user to accept or reject each hypothesis.
+
+Write a constructive critique of the description?  What would make it better?
+
+The description is quite clear and it provides a good overview of what GPT-3 can do. However, it would be better if the description specified the types of data GPT-3 can take as input, such as text, images, video, and audio, and how GPT-3 uses this data to generate research hypotheses. Additionally, it would be helpful if the description included a list of parameters or keywords that should be included in the input to guide GPT-3 in its hypothesis generation. This would ensure that the output generated is precise and relevant to the original research topic. Finally, a better interface could be developed that would give the user more control over GPT-3's output, such as the ability to further refine the hypotheses generated, or to discard irrelevant hypotheses.
+
+Incorporate the critique into an improved description:
+
+1. Write a description of the proposed research topic or area;
+2. Feed the description as input to GPT-3, along with some information such as the area of research, the type of research that needs to be done, and keywords or parameters focusing on the specific objectives; 
+3. GPT-3's outputs will include hypotheses generated from the given description, text, images, video and audio;
+4. The interface should allow the user to input the description and parameters, and display the generated hypotheses. It should also provide an option for the user to further refine the hypotheses, accept or reject each hypothesis, or discard irrelevant hypotheses.
+

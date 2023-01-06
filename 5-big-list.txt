@@ -1,0 +1,14 @@
+Language models (like GPT-3) are an interesting component with which to build tools for automating research.
+
+List out ideas for a hackathon about building tools to automate research:
+-Build a tool to automatically create research questionnaires and surveys
+-Develop a tool to predict the outcome of research experiments
+-Create a tool to automatically categorize research literature
+-Build a tool to automatically generate research hypotheses
+-Develop a tool that uses natural language processing to generate summaries of research
+-Develop a tool to automatically generate research summaries from a corpus of documents
+-Create a tool to automatically generate research plans from a set of research questions
+-Develop a tool to compare and contrast different research papers
+-Create a tool that uses machine learning to predict trends in research papers
+-Build a tool that generates citations from research papers in the style of a particular journal
+-Develop a tool to automatically generate a literature review on a research topic

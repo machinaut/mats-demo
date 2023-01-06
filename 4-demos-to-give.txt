@@ -1,0 +1,12 @@
+Demos to give as part of talk:
+- Speech to text with whisper
+- Text organization (title processing, summary and key points processing, extracting to-do items)
+- Processing multi-chunk data (parallel version and rolling reduction)
+- Structured creativity ideation (big lists)
+- Rubber ducking with a chatbot
+- Writing an outline of the talk
+- Copilot (Jupyter interactive mode in VS Code)
+- Natural language filter and few shot prompt
+- Critique and revise
+- Embeddings and similarity
+- Using embedding space for other tasks
